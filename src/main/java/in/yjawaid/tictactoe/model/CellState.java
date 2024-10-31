@@ -1,7 +1,7 @@
-package in.yjawaid.tictactoe;
+package in.yjawaid.tictactoe.model;
 
 public enum CellState {
-        EMPTY,
+    EMPTY,
     FILLED,
     BLOCKED
 }

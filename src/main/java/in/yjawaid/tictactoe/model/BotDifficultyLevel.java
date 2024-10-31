@@ -1,4 +1,4 @@
-package in.yjawaid.tictactoe;
+package in.yjawaid.tictactoe.model;
 
 public enum BotDifficultyLevel {
     EASY,
